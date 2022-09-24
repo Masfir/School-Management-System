@@ -4,11 +4,11 @@
  
 # HOW TO RUN THIS PROJECT
 
-  Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+->Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
   
-   Open Terminal and Execute Following Commands :
+->Open Terminal and Execute Following Commands :
    
-   python -m pip install -r requirements.txt
+  python -m pip install -r requirements.txt
 
 ->Download This Project Zip Folder and Extract it
 
