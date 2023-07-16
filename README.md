@@ -1,6 +1,6 @@
 # School-Management-System
 
- By using Python, Django, HTML-5,CSS, Bootstrap. https://masfir.github.io/School-Management-System/
+  https://masfir.github.io/School-Management-System/
  
 # HOW TO RUN THIS PROJECT
 
